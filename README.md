@@ -33,7 +33,7 @@ git clone https://github.com/Toma1264git0hub/Admin-PAGE-CHECKER.git
 cd Admin-PAGE-CHECKER
 ```
 ```bash
-python Tomas5.py
+python TOMAS5.py
 ```
 
 ---
